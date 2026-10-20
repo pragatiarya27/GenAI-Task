@@ -1,6 +1,5 @@
 # GenAI-Task
 
-
 A collection of small, practical GenAI projects built with Python, LLMs, and modern tooling. Each task lives in its own folder with its own code and dependencies.
 
 ## Projects at a glance
